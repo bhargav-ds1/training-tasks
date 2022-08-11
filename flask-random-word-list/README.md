@@ -25,8 +25,8 @@ You are free to design the request and response format however You like.
 
 Please provide a sample request along with Your submission. 
 
-
-#Submission
+** ______ **
+# Submission
 
 # Introduction
 What does your API do?
